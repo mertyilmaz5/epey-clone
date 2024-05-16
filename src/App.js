@@ -1,7 +1,5 @@
 import React from "react";
-import "./App.css";
-import PhoneComparison from "./phone_compare/PhoneComparison";
-import data from "./phone_compare/data";
+import PhoneComparison from "./components/PhoneComparison/PhoneComparison";
 
 function App() {
   return (
@@ -9,7 +7,7 @@ function App() {
       <h1 style={{ textAlign: "center", padding: "20px" }}>
         Telefon Karşılaştırma
       </h1>
-      <PhoneComparison phones={data} />
+      <PhoneComparison />
     </div>
   );
 }
