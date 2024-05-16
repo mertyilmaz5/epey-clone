@@ -63,6 +63,70 @@ const data = [
       },
     ],
   },
+  {
+    brand: "Apple",
+    model: "iPhone 15 Pro Max Ultimate Plus",
+    img: "https://resim.epey.com/894486/m_apple-iphone-15-pro-max-3.png",
+    features: [
+      {
+        title: "Fiyat",
+        text: "75.000 TL",
+        value: 75000,
+      },
+      {
+        title: "Ekran Boyutu",
+        text: "6.8 inç",
+        value: 6.8,
+      },
+      {
+        title: "Kamera Çözünürlüğü",
+        text: "32 MP",
+        value: 32,
+      },
+      {
+        title: "Dahili Depolama",
+        text: "1024 GB",
+        value: 1024,
+      },
+      {
+        title: "CPU Frekansı",
+        text: "3.2 GHz",
+        value: 3.2,
+      },
+    ],
+  },
+  {
+    brand: "Apple",
+    model: "iPhone 15 Pro Max Ultimate Plus",
+    img: "https://resim.epey.com/894486/m_apple-iphone-15-pro-max-3.png",
+    features: [
+      {
+        title: "Fiyat",
+        text: "75.000 TL",
+        value: 75000,
+      },
+      {
+        title: "Ekran Boyutu",
+        text: "6.8 inç",
+        value: 6.8,
+      },
+      {
+        title: "Kamera Çözünürlüğü",
+        text: "32 MP",
+        value: 32,
+      },
+      {
+        title: "Dahili Depolama",
+        text: "1024 GB",
+        value: 1024,
+      },
+      {
+        title: "CPU Frekansı",
+        text: "3.2 GHz",
+        value: 3.2,
+      },
+    ],
+  },
 ];
 
 export default data;

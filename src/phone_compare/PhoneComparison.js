@@ -26,6 +26,10 @@ const PhoneComparison = ({ phones }) => {
     return bestValues;
   };
 
+  //logic böl,
+  //eşleşmeyen title boş gelsin,
+  //ui bak
+
   const bestValues = calculateBestValues();
 
   return (
